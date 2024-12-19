@@ -9,6 +9,7 @@ SERVICE_NAME="apache2"
 # Переходим в директорию с репозиторием
 cd "$REPO_DIR" || exit 1
 
+
 # Выполняем git pull
 git pull
 
