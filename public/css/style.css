@@ -1,3 +1,12 @@
+a {
+    display: inline-block;
+    padding: 10px;
+    background-color: #1abc9c;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
 body {
     font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     margin: 0;
